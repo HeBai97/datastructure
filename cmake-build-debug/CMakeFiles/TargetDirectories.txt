@@ -1,3 +1,0 @@
-C:/Users/94939/CLionProjects/alogrithm/cmake-build-debug/CMakeFiles/alogrithm.dir
-C:/Users/94939/CLionProjects/alogrithm/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/94939/CLionProjects/alogrithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
